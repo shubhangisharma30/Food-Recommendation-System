@@ -12,7 +12,7 @@ This is a machine learning web software that allows the user to select a meal it
 The k-nearest neighbors algorithm, also known as KNN or k-NN, is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point. is a reliable and intuitive recommendation system that leverages user or item similarity to provide personalized recommendations.
 
 
-## How to run
+## How to run?
 
 * Pre-requisites:
 	-  Streamlit
